@@ -1,0 +1,3600 @@
+{
+  "destinations": {
+    "goa": {
+      "name": "Goa",
+      "best_time": "November to February",
+      "description": "India's party capital with beautiful beaches, vibrant nightlife, and Portuguese heritage.",
+      "tips": [
+        "Carry sunscreen and light clothes",
+        "Rent a scooter for easy travel",
+        "Try local seafood!",
+        "Bargain at flea markets",
+        "Avoid peak season if on budget"
+      ],
+      "map_link": "https://maps.google.com/?q=Goa,India",
+      "days": {
+        "1": {
+          "title": "Arrival & North Goa Beaches",
+          "places": [
+            {
+              "name": "Calangute Beach",
+              "desc": "King of Goa beaches",
+              "map": "https://maps.google.com/?q=Calangute+Beach+Goa"
+            },
+            {
+              "name": "Baga Beach",
+              "desc": "Famous for water sports and nightlife",
+              "map": "https://maps.google.com/?q=Baga+Beach+Goa"
+            },
+            {
+              "name": "Anjuna Flea Market",
+              "desc": "Shop for clothes, accessories & souvenirs",
+              "map": "https://maps.google.com/?q=Anjuna+Market+Goa"
+            }
+          ],
+          "activities": [
+            "Water sports at Baga",
+            "Sunset at Calangute",
+            "Street shopping"
+          ],
+          "food": [
+            "Infantaria Bakery",
+            "Brittos Restaurant",
+            "local beach shacks"
+          ]
+        },
+        "2": {
+          "title": "Old Goa & Culture",
+          "places": [
+            {
+              "name": "Basilica of Bom Jesus",
+              "desc": "UNESCO heritage site",
+              "map": "https://maps.google.com/?q=Basilica+of+Bom+Jesus+Goa"
+            },
+            {
+              "name": "Dudhsagar Falls",
+              "desc": "Stunning 4-tier waterfall",
+              "map": "https://maps.google.com/?q=Dudhsagar+Falls+Goa"
+            },
+            {
+              "name": "Panaji City",
+              "desc": "Capital city with colorful Latin Quarter",
+              "map": "https://maps.google.com/?q=Panaji+Goa"
+            }
+          ],
+          "activities": [
+            "Church visit",
+            "Waterfall trek",
+            "City walk"
+          ],
+          "food": [
+            "Cafe Bhonsle",
+            "Viva Panjim",
+            "Hotel Venite"
+          ]
+        },
+        "3": {
+          "title": "South Goa & Leisure",
+          "places": [
+            {
+              "name": "Colva Beach",
+              "desc": "Peaceful & less crowded beach",
+              "map": "https://maps.google.com/?q=Colva+Beach+Goa"
+            },
+            {
+              "name": "Butterfly Beach",
+              "desc": "Hidden gem accessible only by boat",
+              "map": "https://maps.google.com/?q=Butterfly+Beach+Goa"
+            },
+            {
+              "name": "Cabo de Rama Fort",
+              "desc": "Ancient fort with sea views",
+              "map": "https://maps.google.com/?q=Cabo+de+Rama+Fort+Goa"
+            }
+          ],
+          "activities": [
+            "Dolphin spotting",
+            "Beach hopping",
+            "Fort exploration"
+          ],
+          "food": [
+            "Zeebop by the Sea",
+            "Martin's Corner",
+            "Fisherman's Wharf"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Goa",
+            "price_per_night": 500,
+            "rating": 4.1,
+            "area": "Anjuna"
+          },
+          {
+            "name": "Jungle Hostel",
+            "price_per_night": 800,
+            "rating": 3.9,
+            "area": "Calangute"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Lemon Tree Hotel Goa",
+            "price_per_night": 2500,
+            "rating": 4.3,
+            "area": "Calangute"
+          },
+          {
+            "name": "Hotel Mandovi",
+            "price_per_night": 2000,
+            "rating": 4,
+            "area": "Panaji"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Exotica Resort",
+            "price_per_night": 12000,
+            "rating": 4.8,
+            "area": "Benaulim"
+          },
+          {
+            "name": "W Goa",
+            "price_per_night": 15000,
+            "rating": 4.7,
+            "area": "Vagator"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 3000,
+        "food_per_day": 600,
+        "activities_per_day": 500,
+        "local_transport_per_day": 300
+      }
+    },
+    "manali": {
+      "name": "Manali",
+      "best_time": "October to June",
+      "description": "A stunning hill station in Himachal Pradesh with snow-capped mountains and adventure sports.",
+      "tips": [
+        "Carry warm clothes even in summer",
+        "Acclimatize before Rohtang Pass",
+        "Book hotels in advance",
+        "Carry cash — ATMs unreliable",
+        "Start early morning for sightseeing"
+      ],
+      "map_link": "https://maps.google.com/?q=Manali,Himachal+Pradesh",
+      "days": {
+        "1": {
+          "title": "Arrival & Old Manali",
+          "places": [
+            {
+              "name": "Hidimba Devi Temple",
+              "desc": "Ancient wooden temple in cedar forest",
+              "map": "https://maps.google.com/?q=Hidimba+Temple+Manali"
+            },
+            {
+              "name": "Mall Road",
+              "desc": "Shopping street with cafes",
+              "map": "https://maps.google.com/?q=Mall+Road+Manali"
+            },
+            {
+              "name": "Old Manali",
+              "desc": "Bohemian village with great cafes",
+              "map": "https://maps.google.com/?q=Old+Manali"
+            }
+          ],
+          "activities": [
+            "Temple visit",
+            "Shopping",
+            "Cafe hopping"
+          ],
+          "food": [
+            "Johnson Cafe",
+            "Drifters Inn",
+            "Cafe 1947"
+          ]
+        },
+        "2": {
+          "title": "Rohtang Pass & Snow",
+          "places": [
+            {
+              "name": "Rohtang Pass",
+              "desc": "High mountain pass with snow views",
+              "map": "https://maps.google.com/?q=Rohtang+Pass+Manali"
+            },
+            {
+              "name": "Solang Valley",
+              "desc": "Snow activities & cable car",
+              "map": "https://maps.google.com/?q=Solang+Valley+Manali"
+            },
+            {
+              "name": "Beas River",
+              "desc": "Scenic river for rafting",
+              "map": "https://maps.google.com/?q=Beas+River+Manali"
+            }
+          ],
+          "activities": [
+            "Snow activities",
+            "Cable car ride",
+            "River rafting"
+          ],
+          "food": [
+            "Chopsticks Restaurant",
+            "Casa Bella Vista",
+            "Manu Allaya"
+          ]
+        },
+        "3": {
+          "title": "Kullu & Local Culture",
+          "places": [
+            {
+              "name": "Kullu Valley",
+              "desc": "Beautiful valley with apple orchards",
+              "map": "https://maps.google.com/?q=Kullu+Valley"
+            },
+            {
+              "name": "Bijli Mahadev Temple",
+              "desc": "Temple on hilltop with panoramic views",
+              "map": "https://maps.google.com/?q=Bijli+Mahadev+Temple"
+            },
+            {
+              "name": "Naggar Castle",
+              "desc": "Medieval castle with Himalayan views",
+              "map": "https://maps.google.com/?q=Naggar+Castle+Manali"
+            }
+          ],
+          "activities": [
+            "Valley drive",
+            "Temple visit",
+            "Castle exploration"
+          ],
+          "food": [
+            "Shiv Shakti Dhaba",
+            "Momos stalls",
+            "Punjabi dhabas"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Manali",
+            "price_per_night": 600,
+            "rating": 4.2,
+            "area": "Old Manali"
+          },
+          {
+            "name": "Snow Valley Resorts",
+            "price_per_night": 900,
+            "rating": 3.8,
+            "area": "Mall Road"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Rohtang Manali",
+            "price_per_night": 2200,
+            "rating": 4.1,
+            "area": "Mall Road"
+          },
+          {
+            "name": "Span Resort",
+            "price_per_night": 3000,
+            "rating": 4.4,
+            "area": "Katrain"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Solang Valley Resort",
+            "price_per_night": 8000,
+            "rating": 4.6,
+            "area": "Solang"
+          },
+          {
+            "name": "Manu Allaya Resort",
+            "price_per_night": 10000,
+            "rating": 4.7,
+            "area": "Old Manali"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 2500,
+        "food_per_day": 500,
+        "activities_per_day": 700,
+        "local_transport_per_day": 400
+      }
+    },
+    "jaipur": {
+      "name": "Jaipur",
+      "best_time": "October to March",
+      "description": "The Pink City — magnificent palaces, forts, vibrant culture, and Rajasthani cuisine.",
+      "tips": [
+        "Wear comfortable walking shoes",
+        "Hire a local guide for forts",
+        "Try authentic Rajasthani thali",
+        "Bargain at Johari Bazaar",
+        "Book Amber Fort tickets online"
+      ],
+      "map_link": "https://maps.google.com/?q=Jaipur,Rajasthan",
+      "days": {
+        "1": {
+          "title": "Forts & Palaces",
+          "places": [
+            {
+              "name": "Amber Fort",
+              "desc": "Majestic hilltop fort",
+              "map": "https://maps.google.com/?q=Amber+Fort+Jaipur"
+            },
+            {
+              "name": "City Palace",
+              "desc": "Royal palace complex",
+              "map": "https://maps.google.com/?q=City+Palace+Jaipur"
+            },
+            {
+              "name": "Hawa Mahal",
+              "desc": "Iconic Palace of Winds",
+              "map": "https://maps.google.com/?q=Hawa+Mahal+Jaipur"
+            }
+          ],
+          "activities": [
+            "Elephant ride",
+            "Palace tour",
+            "Photography"
+          ],
+          "food": [
+            "Laxmi Misthan Bhandar",
+            "Rawat Mishthan",
+            "Suvarna Mahal"
+          ]
+        },
+        "2": {
+          "title": "Markets & Culture",
+          "places": [
+            {
+              "name": "Johari Bazaar",
+              "desc": "Famous jewellery and textile market",
+              "map": "https://maps.google.com/?q=Johari+Bazaar+Jaipur"
+            },
+            {
+              "name": "Jantar Mantar",
+              "desc": "UNESCO astronomical observatory",
+              "map": "https://maps.google.com/?q=Jantar+Mantar+Jaipur"
+            },
+            {
+              "name": "Albert Hall Museum",
+              "desc": "Oldest museum in Rajasthan",
+              "map": "https://maps.google.com/?q=Albert+Hall+Museum+Jaipur"
+            }
+          ],
+          "activities": [
+            "Shopping",
+            "Museum visit",
+            "Street food walk"
+          ],
+          "food": [
+            "Masala Chowk",
+            "1135 AD Restaurant",
+            "Peacock Rooftop"
+          ]
+        },
+        "3": {
+          "title": "Forts & Evening",
+          "places": [
+            {
+              "name": "Nahargarh Fort",
+              "desc": "Sunset point with city views",
+              "map": "https://maps.google.com/?q=Nahargarh+Fort+Jaipur"
+            },
+            {
+              "name": "Jal Mahal",
+              "desc": "Palace floating on Man Sagar Lake",
+              "map": "https://maps.google.com/?q=Jal+Mahal+Jaipur"
+            },
+            {
+              "name": "Chokhi Dhani",
+              "desc": "Rajasthani village experience",
+              "map": "https://maps.google.com/?q=Chokhi+Dhani+Jaipur"
+            }
+          ],
+          "activities": [
+            "Sunset at fort",
+            "Cultural show",
+            "Village experience"
+          ],
+          "food": [
+            "Chokhi Dhani Restaurant",
+            "Peshawri ITC",
+            "Niros Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Moustache Hostel Jaipur",
+            "price_per_night": 450,
+            "rating": 4.3,
+            "area": "Bani Park"
+          },
+          {
+            "name": "Hotel Pearl Palace",
+            "price_per_night": 800,
+            "rating": 4.4,
+            "area": "Hathroi"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Umaid Bhawan Heritage",
+            "price_per_night": 2800,
+            "rating": 4.5,
+            "area": "Bani Park"
+          },
+          {
+            "name": "Hotel Diggi Palace",
+            "price_per_night": 2200,
+            "rating": 4.2,
+            "area": "Sansar Chandra Road"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Rambagh Palace",
+            "price_per_night": 25000,
+            "rating": 4.9,
+            "area": "Bhawani Singh Road"
+          },
+          {
+            "name": "ITC Rajputana",
+            "price_per_night": 8000,
+            "rating": 4.6,
+            "area": "Palace Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 500,
+        "activities_per_day": 600,
+        "local_transport_per_day": 250
+      }
+    },
+    "kerala": {
+      "name": "Kerala",
+      "best_time": "September to March",
+      "description": "God's Own Country — backwaters, lush greenery, Ayurveda, and serene beaches.",
+      "tips": [
+        "Book houseboat in advance",
+        "Try Kerala fish curry and appam",
+        "Carry mosquito repellent",
+        "Respect temple customs",
+        "Monsoon is also beautiful"
+      ],
+      "map_link": "https://maps.google.com/?q=Kerala,India",
+      "days": {
+        "1": {
+          "title": "Cochin & Arrival",
+          "places": [
+            {
+              "name": "Fort Kochi",
+              "desc": "Colonial heritage with Chinese fishing nets",
+              "map": "https://maps.google.com/?q=Fort+Kochi+Kerala"
+            },
+            {
+              "name": "Mattancherry Palace",
+              "desc": "Dutch palace with Kerala murals",
+              "map": "https://maps.google.com/?q=Mattancherry+Palace+Kochi"
+            },
+            {
+              "name": "Marine Drive",
+              "desc": "Promenade along Vembanad Lake",
+              "map": "https://maps.google.com/?q=Marine+Drive+Kochi"
+            }
+          ],
+          "activities": [
+            "Heritage walk",
+            "Kathakali show",
+            "Sunset cruise"
+          ],
+          "food": [
+            "Kayees Rahmathulla Hotel",
+            "Dhe Puttu",
+            "Fort House Restaurant"
+          ]
+        },
+        "2": {
+          "title": "Alleppey Backwaters",
+          "places": [
+            {
+              "name": "Alleppey Backwaters",
+              "desc": "Venice of the East — houseboat ride",
+              "map": "https://maps.google.com/?q=Alleppey+Backwaters+Kerala"
+            },
+            {
+              "name": "Kumarakom Bird Sanctuary",
+              "desc": "Bird watching paradise",
+              "map": "https://maps.google.com/?q=Kumarakom+Bird+Sanctuary"
+            },
+            {
+              "name": "Vembanad Lake",
+              "desc": "Largest lake in Kerala",
+              "map": "https://maps.google.com/?q=Vembanad+Lake+Kerala"
+            }
+          ],
+          "activities": [
+            "Houseboat stay",
+            "Bird watching",
+            "Village walks"
+          ],
+          "food": [
+            "Houseboat meals",
+            "Thaff Restaurant",
+            "Chakara Restaurant"
+          ]
+        },
+        "3": {
+          "title": "Munnar Hills",
+          "places": [
+            {
+              "name": "Munnar Tea Gardens",
+              "desc": "Rolling hills covered in tea",
+              "map": "https://maps.google.com/?q=Munnar+Tea+Gardens"
+            },
+            {
+              "name": "Eravikulam National Park",
+              "desc": "Home to Nilgiri Tahr",
+              "map": "https://maps.google.com/?q=Eravikulam+National+Park"
+            },
+            {
+              "name": "Mattupetty Dam",
+              "desc": "Scenic reservoir in forests",
+              "map": "https://maps.google.com/?q=Mattupetty+Dam+Munnar"
+            }
+          ],
+          "activities": [
+            "Tea estate tour",
+            "Wildlife spotting",
+            "Boating"
+          ],
+          "food": [
+            "Rapsy Restaurant",
+            "Saravana Bhavan",
+            "local Kerala thali"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Kochi",
+            "price_per_night": 550,
+            "rating": 4,
+            "area": "Fort Kochi"
+          },
+          {
+            "name": "Rainforest Hostel",
+            "price_per_night": 750,
+            "rating": 3.9,
+            "area": "Munnar"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Fragrant Nature Kochi",
+            "price_per_night": 3000,
+            "rating": 4.3,
+            "area": "Willingdon Island"
+          },
+          {
+            "name": "Spice Tree Munnar",
+            "price_per_night": 4000,
+            "rating": 4.5,
+            "area": "Munnar"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Malabar Resort",
+            "price_per_night": 14000,
+            "rating": 4.8,
+            "area": "Willingdon Island"
+          },
+          {
+            "name": "Kumarakom Lake Resort",
+            "price_per_night": 18000,
+            "rating": 4.9,
+            "area": "Kumarakom"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 2000,
+        "food_per_day": 550,
+        "activities_per_day": 800,
+        "local_transport_per_day": 350
+      }
+    },
+    "delhi": {
+      "name": "Delhi",
+      "best_time": "October to March",
+      "description": "India's capital — Mughal history, modern culture, street food, and vibrant markets.",
+      "tips": [
+        "Use Metro — fast and cheap",
+        "Try street food at Chandni Chowk",
+        "Visit monuments early morning",
+        "Keep ID proof",
+        "Avoid summer May-June"
+      ],
+      "map_link": "https://maps.google.com/?q=Delhi,India",
+      "days": {
+        "1": {
+          "title": "Old Delhi Heritage",
+          "places": [
+            {
+              "name": "Red Fort",
+              "desc": "Iconic Mughal fort — symbol of India",
+              "map": "https://maps.google.com/?q=Red+Fort+Delhi"
+            },
+            {
+              "name": "Jama Masjid",
+              "desc": "India's largest mosque",
+              "map": "https://maps.google.com/?q=Jama+Masjid+Delhi"
+            },
+            {
+              "name": "Chandni Chowk",
+              "desc": "Best street food in India",
+              "map": "https://maps.google.com/?q=Chandni+Chowk+Delhi"
+            }
+          ],
+          "activities": [
+            "Fort tour",
+            "Street food walk",
+            "Market exploration"
+          ],
+          "food": [
+            "Paranthe Wali Gali",
+            "Karim's",
+            "Al Jawahar"
+          ]
+        },
+        "2": {
+          "title": "New Delhi Monuments",
+          "places": [
+            {
+              "name": "India Gate",
+              "desc": "War memorial in New Delhi",
+              "map": "https://maps.google.com/?q=India+Gate+Delhi"
+            },
+            {
+              "name": "Qutub Minar",
+              "desc": "UNESCO heritage — tallest brick minaret",
+              "map": "https://maps.google.com/?q=Qutub+Minar+Delhi"
+            },
+            {
+              "name": "Humayun's Tomb",
+              "desc": "Mughal architecture inspiration for Taj",
+              "map": "https://maps.google.com/?q=Humayuns+Tomb+Delhi"
+            }
+          ],
+          "activities": [
+            "Monument hopping",
+            "Photography",
+            "Garden walks"
+          ],
+          "food": [
+            "Bukhara ITC Maurya",
+            "Indian Accent",
+            "Saravana Bhavan"
+          ]
+        },
+        "3": {
+          "title": "Culture & Markets",
+          "places": [
+            {
+              "name": "Lotus Temple",
+              "desc": "Stunning Baha'i temple",
+              "map": "https://maps.google.com/?q=Lotus+Temple+Delhi"
+            },
+            {
+              "name": "Hauz Khas Village",
+              "desc": "Trendy area with cafes and ruins",
+              "map": "https://maps.google.com/?q=Hauz+Khas+Village+Delhi"
+            },
+            {
+              "name": "Dilli Haat",
+              "desc": "Craft bazaar with pan-India food",
+              "map": "https://maps.google.com/?q=Dilli+Haat+Delhi"
+            }
+          ],
+          "activities": [
+            "Temple visit",
+            "Cafe hopping",
+            "Craft shopping"
+          ],
+          "food": [
+            "Hauz Khas Social",
+            "Naivedyam",
+            "Lodi Garden Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Stops Hostel Delhi",
+            "price_per_night": 400,
+            "rating": 4.1,
+            "area": "Paharganj"
+          },
+          {
+            "name": "Hotel Ajanta",
+            "price_per_night": 900,
+            "rating": 3.8,
+            "area": "Connaught Place"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "The Hans Hotel",
+            "price_per_night": 3500,
+            "rating": 4.2,
+            "area": "Connaught Place"
+          },
+          {
+            "name": "Hotel Suncourt Corporate",
+            "price_per_night": 2500,
+            "rating": 4,
+            "area": "Karol Bagh"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "The Leela Palace Delhi",
+            "price_per_night": 20000,
+            "rating": 4.9,
+            "area": "Chanakyapuri"
+          },
+          {
+            "name": "ITC Maurya",
+            "price_per_night": 15000,
+            "rating": 4.8,
+            "area": "Chanakyapuri"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1000,
+        "food_per_day": 450,
+        "activities_per_day": 400,
+        "local_transport_per_day": 150
+      }
+    },
+    "agra": {
+      "name": "Agra",
+      "best_time": "October to March",
+      "description": "City of the Taj Mahal — one of the Seven Wonders of the World.",
+      "tips": [
+        "Visit Taj Mahal at sunrise",
+        "Carry water bottle",
+        "Book skip-the-line tickets online",
+        "Try Agra ka Petha",
+        "Hire a guide at Taj"
+      ],
+      "map_link": "https://maps.google.com/?q=Agra,Uttar+Pradesh",
+      "days": {
+        "1": {
+          "title": "Taj Mahal & Agra Fort",
+          "places": [
+            {
+              "name": "Taj Mahal",
+              "desc": "Most beautiful building in the world",
+              "map": "https://maps.google.com/?q=Taj+Mahal+Agra"
+            },
+            {
+              "name": "Agra Fort",
+              "desc": "Massive Mughal fort — UNESCO heritage",
+              "map": "https://maps.google.com/?q=Agra+Fort"
+            },
+            {
+              "name": "Mehtab Bagh",
+              "desc": "Best sunset view of Taj Mahal",
+              "map": "https://maps.google.com/?q=Mehtab+Bagh+Agra"
+            }
+          ],
+          "activities": [
+            "Sunrise Taj visit",
+            "Fort tour",
+            "Sunset garden walk"
+          ],
+          "food": [
+            "Pind Balluchi",
+            "Dasaprakash",
+            "Sheroes Hangout"
+          ]
+        },
+        "2": {
+          "title": "Fatehpur Sikri Day Trip",
+          "places": [
+            {
+              "name": "Fatehpur Sikri",
+              "desc": "Abandoned Mughal capital",
+              "map": "https://maps.google.com/?q=Fatehpur+Sikri"
+            },
+            {
+              "name": "Itmad-ud-Daulah",
+              "desc": "Baby Taj — delicate marble mausoleum",
+              "map": "https://maps.google.com/?q=Itmad+ud+Daulah+Agra"
+            },
+            {
+              "name": "Kinari Bazaar",
+              "desc": "Local market for souvenirs",
+              "map": "https://maps.google.com/?q=Kinari+Bazaar+Agra"
+            }
+          ],
+          "activities": [
+            "Day trip to Fatehpur Sikri",
+            "Marble inlay shopping",
+            "Bazaar walk"
+          ],
+          "food": [
+            "Lakshmi Vilas",
+            "Mama Chicken",
+            "Brijwasi Sweets"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Hotel Kamal",
+            "price_per_night": 600,
+            "rating": 3.9,
+            "area": "Taj Ganj"
+          },
+          {
+            "name": "Moustache Hostel Agra",
+            "price_per_night": 500,
+            "rating": 4.2,
+            "area": "Taj Ganj"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Taj Resorts",
+            "price_per_night": 2500,
+            "rating": 4.1,
+            "area": "Fatehabad Road"
+          },
+          {
+            "name": "Crystal Sarovar Premiere",
+            "price_per_night": 3200,
+            "rating": 4.3,
+            "area": "Fatehabad Road"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Oberoi Amarvilas",
+            "price_per_night": 35000,
+            "rating": 4.9,
+            "area": "Taj East Gate"
+          },
+          {
+            "name": "ITC Mughal",
+            "price_per_night": 12000,
+            "rating": 4.7,
+            "area": "Fatehabad Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 800,
+        "food_per_day": 400,
+        "activities_per_day": 500,
+        "local_transport_per_day": 200
+      }
+    },
+    "shimla": {
+      "name": "Shimla",
+      "best_time": "March to June, December to February",
+      "description": "Queen of Hills — former British summer capital with toy train and snow.",
+      "tips": [
+        "Ride Kalka-Shimla toy train",
+        "Mall Road is the heart",
+        "Carry warm clothes",
+        "Visit Jakhu Temple early",
+        "Book Mall Road hotels"
+      ],
+      "map_link": "https://maps.google.com/?q=Shimla,Himachal+Pradesh",
+      "days": {
+        "1": {
+          "title": "Mall Road & Ridge",
+          "places": [
+            {
+              "name": "The Ridge",
+              "desc": "Panoramic Himalaya views",
+              "map": "https://maps.google.com/?q=The+Ridge+Shimla"
+            },
+            {
+              "name": "Mall Road",
+              "desc": "Main promenade with cafes",
+              "map": "https://maps.google.com/?q=Mall+Road+Shimla"
+            },
+            {
+              "name": "Christ Church",
+              "desc": "Second oldest church in North India",
+              "map": "https://maps.google.com/?q=Christ+Church+Shimla"
+            }
+          ],
+          "activities": [
+            "Mall Road walk",
+            "Church visit",
+            "Shopping"
+          ],
+          "food": [
+            "Wake & Bake Cafe",
+            "Ashiana Restaurant",
+            "Indian Coffee House"
+          ]
+        },
+        "2": {
+          "title": "Jakhu & Kufri",
+          "places": [
+            {
+              "name": "Jakhu Temple",
+              "desc": "Famous Hanuman temple",
+              "map": "https://maps.google.com/?q=Jakhu+Temple+Shimla"
+            },
+            {
+              "name": "Kufri",
+              "desc": "Mini hill station near Shimla",
+              "map": "https://maps.google.com/?q=Kufri+Shimla"
+            },
+            {
+              "name": "Green Valley",
+              "desc": "Pine forest valley viewpoint",
+              "map": "https://maps.google.com/?q=Green+Valley+Shimla"
+            }
+          ],
+          "activities": [
+            "Temple hike",
+            "Yak ride",
+            "Horse riding"
+          ],
+          "food": [
+            "Cafe Simla Times",
+            "Baljee's Restaurant",
+            "Himachali dhabas"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Shimla",
+            "price_per_night": 550,
+            "rating": 4.1,
+            "area": "Lakkar Bazaar"
+          },
+          {
+            "name": "Hotel White",
+            "price_per_night": 900,
+            "rating": 3.8,
+            "area": "Mall Road"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Combermere",
+            "price_per_night": 2800,
+            "rating": 4.2,
+            "area": "Mall Road"
+          },
+          {
+            "name": "Hotel Willow Banks",
+            "price_per_night": 2200,
+            "rating": 4,
+            "area": "Chhota Shimla"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Wildflower Hall",
+            "price_per_night": 18000,
+            "rating": 4.9,
+            "area": "Mashobra"
+          },
+          {
+            "name": "The Cecil Hotel",
+            "price_per_night": 10000,
+            "rating": 4.7,
+            "area": "Mall Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1200,
+        "food_per_day": 450,
+        "activities_per_day": 400,
+        "local_transport_per_day": 200
+      }
+    },
+    "varanasi": {
+      "name": "Varanasi",
+      "best_time": "October to March",
+      "description": "Spiritual capital of India — one of the world's oldest cities on the sacred Ganga.",
+      "tips": [
+        "Attend Ganga Aarti daily",
+        "Take sunrise boat ride",
+        "Respect religious customs",
+        "Try Banarasi paan",
+        "Old city best on foot"
+      ],
+      "map_link": "https://maps.google.com/?q=Varanasi,Uttar+Pradesh",
+      "days": {
+        "1": {
+          "title": "Ghats & Ganga Aarti",
+          "places": [
+            {
+              "name": "Dashashwamedh Ghat",
+              "desc": "Main ghat — evening aarti spectacular",
+              "map": "https://maps.google.com/?q=Dashashwamedh+Ghat+Varanasi"
+            },
+            {
+              "name": "Manikarnika Ghat",
+              "desc": "Ancient cremation ghat — deeply spiritual",
+              "map": "https://maps.google.com/?q=Manikarnika+Ghat+Varanasi"
+            },
+            {
+              "name": "Assi Ghat",
+              "desc": "Yoga and meditation ghat",
+              "map": "https://maps.google.com/?q=Assi+Ghat+Varanasi"
+            }
+          ],
+          "activities": [
+            "Sunrise boat ride",
+            "Evening Ganga Aarti",
+            "Ghat walk"
+          ],
+          "food": [
+            "Kashi Chat Bhandar",
+            "Blue Lassi Shop",
+            "Deena Chaat"
+          ]
+        },
+        "2": {
+          "title": "Temples & Sarnath",
+          "places": [
+            {
+              "name": "Kashi Vishwanath Temple",
+              "desc": "Most sacred Shiva temple in India",
+              "map": "https://maps.google.com/?q=Kashi+Vishwanath+Temple+Varanasi"
+            },
+            {
+              "name": "Sarnath",
+              "desc": "Where Buddha gave his first sermon",
+              "map": "https://maps.google.com/?q=Sarnath+Varanasi"
+            },
+            {
+              "name": "Vishwanath Gali",
+              "desc": "Narrow lane full of culture and shops",
+              "map": "https://maps.google.com/?q=Vishwanath+Gali+Varanasi"
+            }
+          ],
+          "activities": [
+            "Temple darshan",
+            "Sarnath Buddhist tour",
+            "Silk weaving workshop"
+          ],
+          "food": [
+            "Aum Cafe",
+            "Pizzeria Vaatika",
+            "Baati Chokha"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Stops Hostel Varanasi",
+            "price_per_night": 350,
+            "rating": 4,
+            "area": "Assi Ghat"
+          },
+          {
+            "name": "Hotel Ganges View",
+            "price_per_night": 800,
+            "rating": 3.9,
+            "area": "Assi Ghat"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "BrijRama Palace",
+            "price_per_night": 5000,
+            "rating": 4.5,
+            "area": "Darbhanga Ghat"
+          },
+          {
+            "name": "Hotel Surya",
+            "price_per_night": 2200,
+            "rating": 4.1,
+            "area": "The Mall"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Ganges Hotel",
+            "price_per_night": 8000,
+            "rating": 4.6,
+            "area": "Nadesar"
+          },
+          {
+            "name": "Ramada Plaza Varanasi",
+            "price_per_night": 6000,
+            "rating": 4.4,
+            "area": "The Mall"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1200,
+        "food_per_day": 350,
+        "activities_per_day": 300,
+        "local_transport_per_day": 150
+      }
+    },
+    "mumbai": {
+      "name": "Mumbai",
+      "best_time": "November to February",
+      "description": "City of Dreams — Bollywood, colonial architecture, street food, and Marine Drive.",
+      "tips": [
+        "Use local trains",
+        "Try vada pav and pav bhaji",
+        "Visit Gateway early morning",
+        "Bandra-Worli Sea Link drive",
+        "Explore Dharavi for authentic Mumbai"
+      ],
+      "map_link": "https://maps.google.com/?q=Mumbai,Maharashtra",
+      "days": {
+        "1": {
+          "title": "South Mumbai Icons",
+          "places": [
+            {
+              "name": "Gateway of India",
+              "desc": "Iconic British-era monument on waterfront",
+              "map": "https://maps.google.com/?q=Gateway+of+India+Mumbai"
+            },
+            {
+              "name": "Colaba Causeway",
+              "desc": "Trendy shopping street",
+              "map": "https://maps.google.com/?q=Colaba+Causeway+Mumbai"
+            },
+            {
+              "name": "Chhatrapati Shivaji Museum",
+              "desc": "Best museum in Mumbai",
+              "map": "https://maps.google.com/?q=Chhatrapati+Shivaji+Museum+Mumbai"
+            }
+          ],
+          "activities": [
+            "Ferry to Elephanta Caves",
+            "Museum tour",
+            "Street shopping"
+          ],
+          "food": [
+            "Britannia & Co",
+            "Leopold Cafe",
+            "Bademiya Seekh"
+          ]
+        },
+        "2": {
+          "title": "Marine Drive & Bandra",
+          "places": [
+            {
+              "name": "Marine Drive",
+              "desc": "Queen's Necklace — stunning promenade",
+              "map": "https://maps.google.com/?q=Marine+Drive+Mumbai"
+            },
+            {
+              "name": "Bandra-Worli Sea Link",
+              "desc": "Iconic cable-stayed bridge",
+              "map": "https://maps.google.com/?q=Bandra+Worli+Sea+Link+Mumbai"
+            },
+            {
+              "name": "Juhu Beach",
+              "desc": "Famous beach with street food",
+              "map": "https://maps.google.com/?q=Juhu+Beach+Mumbai"
+            }
+          ],
+          "activities": [
+            "Sunset at Marine Drive",
+            "Sea Link drive",
+            "Beach walk"
+          ],
+          "food": [
+            "Elco Pani Puri Centre",
+            "Bastian Seafood",
+            "The Table"
+          ]
+        },
+        "3": {
+          "title": "Heritage & Caves",
+          "places": [
+            {
+              "name": "Elephanta Caves",
+              "desc": "UNESCO heritage caves on an island",
+              "map": "https://maps.google.com/?q=Elephanta+Caves+Mumbai"
+            },
+            {
+              "name": "Crawford Market",
+              "desc": "Victorian-era market",
+              "map": "https://maps.google.com/?q=Crawford+Market+Mumbai"
+            },
+            {
+              "name": "Dharavi Walking Tour",
+              "desc": "Fascinating slum walking tour",
+              "map": "https://maps.google.com/?q=Dharavi+Mumbai"
+            }
+          ],
+          "activities": [
+            "Cave ferry trip",
+            "Heritage market walk",
+            "Local tour"
+          ],
+          "food": [
+            "Mahesh Lunch Home",
+            "Trishna",
+            "Khyber Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Mumbai",
+            "price_per_night": 600,
+            "rating": 4,
+            "area": "Colaba"
+          },
+          {
+            "name": "Hotel Residency",
+            "price_per_night": 1200,
+            "rating": 3.8,
+            "area": "Fort"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Marine Plaza",
+            "price_per_night": 4500,
+            "rating": 4.3,
+            "area": "Marine Drive"
+          },
+          {
+            "name": "Abode Bombay",
+            "price_per_night": 3800,
+            "rating": 4.5,
+            "area": "Colaba"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Mahal Palace",
+            "price_per_night": 25000,
+            "rating": 4.9,
+            "area": "Colaba"
+          },
+          {
+            "name": "The Oberoi Mumbai",
+            "price_per_night": 20000,
+            "rating": 4.8,
+            "area": "Nariman Point"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 600,
+        "activities_per_day": 500,
+        "local_transport_per_day": 150
+      }
+    },
+    "udaipur": {
+      "name": "Udaipur",
+      "best_time": "September to March",
+      "description": "City of Lakes — romantic palaces, shimmering lakes, and rich Rajasthani culture.",
+      "tips": [
+        "Boat ride on Lake Pichola at sunset",
+        "Visit City Palace early",
+        "Try Rajasthani puppet show",
+        "Rooftop restaurants have lake views",
+        "Hire auto-rickshaw locally"
+      ],
+      "map_link": "https://maps.google.com/?q=Udaipur,Rajasthan",
+      "days": {
+        "1": {
+          "title": "Palaces & Lakes",
+          "places": [
+            {
+              "name": "City Palace Udaipur",
+              "desc": "Largest palace in Rajasthan",
+              "map": "https://maps.google.com/?q=City+Palace+Udaipur"
+            },
+            {
+              "name": "Lake Pichola",
+              "desc": "Romantic lake with island palaces",
+              "map": "https://maps.google.com/?q=Lake+Pichola+Udaipur"
+            },
+            {
+              "name": "Jag Mandir",
+              "desc": "Island palace in Lake Pichola",
+              "map": "https://maps.google.com/?q=Jag+Mandir+Udaipur"
+            }
+          ],
+          "activities": [
+            "Palace tour",
+            "Lake boat ride",
+            "Sunset cruise"
+          ],
+          "food": [
+            "Ambrai Restaurant",
+            "Millets of Mewar",
+            "Upre by 1559 AD"
+          ]
+        },
+        "2": {
+          "title": "Temples & Gardens",
+          "places": [
+            {
+              "name": "Jagdish Temple",
+              "desc": "Largest Hindu temple in Udaipur",
+              "map": "https://maps.google.com/?q=Jagdish+Temple+Udaipur"
+            },
+            {
+              "name": "Fateh Sagar Lake",
+              "desc": "Beautiful artificial lake",
+              "map": "https://maps.google.com/?q=Fateh+Sagar+Lake+Udaipur"
+            },
+            {
+              "name": "Saheliyon Ki Bari",
+              "desc": "Queen's garden with fountains",
+              "map": "https://maps.google.com/?q=Saheliyon+Ki+Bari+Udaipur"
+            }
+          ],
+          "activities": [
+            "Temple visit",
+            "Lake promenade",
+            "Garden walk"
+          ],
+          "food": [
+            "Natraj Dining Hall",
+            "Banjara Restro Pub",
+            "Jaiwana Haveli"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Udaipur",
+            "price_per_night": 500,
+            "rating": 4.2,
+            "area": "Old City"
+          },
+          {
+            "name": "Nook Hostel",
+            "price_per_night": 700,
+            "rating": 4.1,
+            "area": "Lake Pichola"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Udai Kothi",
+            "price_per_night": 3500,
+            "rating": 4.5,
+            "area": "Hanuman Ghat"
+          },
+          {
+            "name": "Kankarwa Haveli",
+            "price_per_night": 2800,
+            "rating": 4.4,
+            "area": "Old City"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Lake Palace",
+            "price_per_night": 30000,
+            "rating": 4.9,
+            "area": "Lake Pichola"
+          },
+          {
+            "name": "Oberoi Udaivilas",
+            "price_per_night": 40000,
+            "rating": 5,
+            "area": "Lake Pichola"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 500,
+        "activities_per_day": 500,
+        "local_transport_per_day": 200
+      }
+    },
+    "rishikesh": {
+      "name": "Rishikesh",
+      "best_time": "September to June",
+      "description": "Yoga Capital of the World — spiritual retreats, adventure sports, and the holy Ganges.",
+      "tips": [
+        "No alcohol or non-veg in Rishikesh",
+        "Try white water rafting",
+        "Attend Ganga Aarti at Triveni Ghat",
+        "Cross Laxman Jhula — iconic bridge",
+        "Best ashrams near Laxman Jhula"
+      ],
+      "map_link": "https://maps.google.com/?q=Rishikesh,Uttarakhand",
+      "days": {
+        "1": {
+          "title": "Ghats & Bridges",
+          "places": [
+            {
+              "name": "Laxman Jhula",
+              "desc": "Iconic hanging bridge over Ganges",
+              "map": "https://maps.google.com/?q=Laxman+Jhula+Rishikesh"
+            },
+            {
+              "name": "Ram Jhula",
+              "desc": "Suspension bridge with great views",
+              "map": "https://maps.google.com/?q=Ram+Jhula+Rishikesh"
+            },
+            {
+              "name": "Triveni Ghat",
+              "desc": "Sacred ghat — evening aarti spectacular",
+              "map": "https://maps.google.com/?q=Triveni+Ghat+Rishikesh"
+            }
+          ],
+          "activities": [
+            "Evening Ganga Aarti",
+            "Bridge walk",
+            "Meditation"
+          ],
+          "food": [
+            "The Beatles Cafe",
+            "Chotiwala Restaurant",
+            "60s Cafe"
+          ]
+        },
+        "2": {
+          "title": "Adventure & Spirituality",
+          "places": [
+            {
+              "name": "Shivpuri Rafting Point",
+              "desc": "Best spot for white water rafting",
+              "map": "https://maps.google.com/?q=Shivpuri+Rishikesh"
+            },
+            {
+              "name": "Neelkanth Mahadev Temple",
+              "desc": "Sacred Shiva temple in forest",
+              "map": "https://maps.google.com/?q=Neelkanth+Mahadev+Temple+Rishikesh"
+            },
+            {
+              "name": "Beatles Ashram",
+              "desc": "Where The Beatles stayed — now art spot",
+              "map": "https://maps.google.com/?q=Beatles+Ashram+Rishikesh"
+            }
+          ],
+          "activities": [
+            "White water rafting",
+            "Bungee jumping",
+            "Yoga class"
+          ],
+          "food": [
+            "Devraj Coffee Corner",
+            "Aloha on the Ganges",
+            "Pure Soul Cafe"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Rishikesh",
+            "price_per_night": 450,
+            "rating": 4.3,
+            "area": "Laxman Jhula"
+          },
+          {
+            "name": "Bunk Rishikesh",
+            "price_per_night": 600,
+            "rating": 4.1,
+            "area": "Tapovan"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Surya Rishikesh",
+            "price_per_night": 2000,
+            "rating": 4.1,
+            "area": "Haridwar Road"
+          },
+          {
+            "name": "Aloha on the Ganges",
+            "price_per_night": 3000,
+            "rating": 4.4,
+            "area": "Tapovan"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Ananda in the Himalayas",
+            "price_per_night": 22000,
+            "rating": 4.9,
+            "area": "Narendra Nagar"
+          },
+          {
+            "name": "Taj Rishikesh Resort",
+            "price_per_night": 15000,
+            "rating": 4.8,
+            "area": "Shivpuri"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1000,
+        "food_per_day": 350,
+        "activities_per_day": 1200,
+        "local_transport_per_day": 200
+      }
+    },
+    "ooty": {
+      "name": "Ooty",
+      "best_time": "April to June",
+      "description": "Queen of Hill Stations in Tamil Nadu — tea gardens, toy train, and cool misty weather.",
+      "tips": [
+        "Ride the Nilgiri Mountain Railway",
+        "Visit Botanical Garden",
+        "Try home-made Ooty chocolate",
+        "Doddabetta Peak for best views",
+        "Carry warm clothes"
+      ],
+      "map_link": "https://maps.google.com/?q=Ooty,Tamil+Nadu",
+      "days": {
+        "1": {
+          "title": "Gardens & Lake",
+          "places": [
+            {
+              "name": "Government Botanical Garden",
+              "desc": "160-year-old garden with rare plants",
+              "map": "https://maps.google.com/?q=Botanical+Garden+Ooty"
+            },
+            {
+              "name": "Ooty Lake",
+              "desc": "Artificial lake for boating",
+              "map": "https://maps.google.com/?q=Ooty+Lake"
+            },
+            {
+              "name": "Doddabetta Peak",
+              "desc": "Highest peak in Nilgiris",
+              "map": "https://maps.google.com/?q=Doddabetta+Peak+Ooty"
+            }
+          ],
+          "activities": [
+            "Toy train ride",
+            "Boating",
+            "Tea factory visit"
+          ],
+          "food": [
+            "Hotel Nahar",
+            "Shinkow's Chinese",
+            "Adyar Ananda Bhavan"
+          ]
+        },
+        "2": {
+          "title": "Tea Gardens & Views",
+          "places": [
+            {
+              "name": "Tea Museum",
+              "desc": "Tea processing — free tasting",
+              "map": "https://maps.google.com/?q=Tea+Museum+Ooty"
+            },
+            {
+              "name": "Emerald Lake",
+              "desc": "Silent valley with shola forests",
+              "map": "https://maps.google.com/?q=Emerald+Lake+Ooty"
+            },
+            {
+              "name": "Kodanad Viewpoint",
+              "desc": "Stunning valley viewpoint",
+              "map": "https://maps.google.com/?q=Kodanad+Viewpoint+Ooty"
+            }
+          ],
+          "activities": [
+            "Tea garden walk",
+            "Forest trek",
+            "Photography"
+          ],
+          "food": [
+            "Sidewalk Cafe",
+            "Hotel Tamil Nadu",
+            "local Nilgiri food"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "YMCA Anandagiri",
+            "price_per_night": 600,
+            "rating": 3.9,
+            "area": "Club Road"
+          },
+          {
+            "name": "Hotel Sanjay",
+            "price_per_night": 900,
+            "rating": 3.8,
+            "area": "Commercial Road"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Sterling Ooty Fern Hill",
+            "price_per_night": 4000,
+            "rating": 4.4,
+            "area": "Fern Hill"
+          },
+          {
+            "name": "Hotel Sullivan Court",
+            "price_per_night": 2500,
+            "rating": 4.1,
+            "area": "Sylks Road"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Savoy Hotel Ooty",
+            "price_per_night": 9000,
+            "rating": 4.7,
+            "area": "Sylk Road"
+          },
+          {
+            "name": "Fortune Sullivan Court",
+            "price_per_night": 7000,
+            "rating": 4.5,
+            "area": "Charring Cross"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 400,
+        "activities_per_day": 400,
+        "local_transport_per_day": 250
+      }
+    },
+    "andaman": {
+      "name": "Andaman Islands",
+      "best_time": "October to May",
+      "description": "Tropical paradise with crystal-clear waters, pristine beaches, and world-class scuba diving.",
+      "tips": [
+        "Book water sports in advance",
+        "Carry cash — limited card machines",
+        "Radhanagar Beach is Asia's best",
+        "Apply for restricted island permits",
+        "Carry seasickness medicine for ferries"
+      ],
+      "map_link": "https://maps.google.com/?q=Andaman+Islands,India",
+      "days": {
+        "1": {
+          "title": "Port Blair Arrival",
+          "places": [
+            {
+              "name": "Cellular Jail",
+              "desc": "Colonial prison — light & sound show",
+              "map": "https://maps.google.com/?q=Cellular+Jail+Port+Blair"
+            },
+            {
+              "name": "Corbyn's Cove Beach",
+              "desc": "Nearest beach to Port Blair city",
+              "map": "https://maps.google.com/?q=Corbyns+Cove+Beach+Port+Blair"
+            },
+            {
+              "name": "Anthropological Museum",
+              "desc": "Museum on Andaman tribes",
+              "map": "https://maps.google.com/?q=Anthropological+Museum+Port+Blair"
+            }
+          ],
+          "activities": [
+            "Cellular Jail sound show",
+            "Beach swimming",
+            "Museum visit"
+          ],
+          "food": [
+            "Ananda Restaurant",
+            "New Lighthouse Restaurant",
+            "Mandalay Restaurant"
+          ]
+        },
+        "2": {
+          "title": "Havelock Island",
+          "places": [
+            {
+              "name": "Radhanagar Beach",
+              "desc": "Asia's best beach — turquoise water",
+              "map": "https://maps.google.com/?q=Radhanagar+Beach+Havelock+Island"
+            },
+            {
+              "name": "Elephant Beach",
+              "desc": "Best for snorkeling & coral reefs",
+              "map": "https://maps.google.com/?q=Elephant+Beach+Havelock+Island"
+            },
+            {
+              "name": "Kalapathar Beach",
+              "desc": "Quiet sunrise beach with black rocks",
+              "map": "https://maps.google.com/?q=Kalapathar+Beach+Havelock+Island"
+            }
+          ],
+          "activities": [
+            "Scuba diving",
+            "Snorkeling",
+            "Glass bottom boat"
+          ],
+          "food": [
+            "Full Moon Cafe",
+            "Anju Coco Resto",
+            "Red Snapper"
+          ]
+        },
+        "3": {
+          "title": "Neil Island",
+          "places": [
+            {
+              "name": "Bharatpur Beach",
+              "desc": "Best for glass-bottom boat rides",
+              "map": "https://maps.google.com/?q=Bharatpur+Beach+Neil+Island"
+            },
+            {
+              "name": "Natural Bridge",
+              "desc": "Natural coral rock bridge formation",
+              "map": "https://maps.google.com/?q=Natural+Bridge+Neil+Island"
+            },
+            {
+              "name": "Laxmanpur Beach",
+              "desc": "Best sunset spot on Neil Island",
+              "map": "https://maps.google.com/?q=Laxmanpur+Beach+Neil+Island"
+            }
+          ],
+          "activities": [
+            "Island exploration",
+            "Snorkeling",
+            "Sunset photography"
+          ],
+          "food": [
+            "Garden Restaurant",
+            "Pearl Park Resort",
+            "local seafood shacks"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Symphony Palms Resort",
+            "price_per_night": 1500,
+            "rating": 4,
+            "area": "Havelock Island"
+          },
+          {
+            "name": "TnT Hostel",
+            "price_per_night": 700,
+            "rating": 4.2,
+            "area": "Port Blair"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Sea Princess Beach Resort",
+            "price_per_night": 5000,
+            "rating": 4.3,
+            "area": "Havelock Island"
+          },
+          {
+            "name": "Sinclairs Bayview",
+            "price_per_night": 4000,
+            "rating": 4.2,
+            "area": "Port Blair"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Exotica Resort Andaman",
+            "price_per_night": 18000,
+            "rating": 4.8,
+            "area": "Havelock Island"
+          },
+          {
+            "name": "Barefoot at Havelock",
+            "price_per_night": 12000,
+            "rating": 4.7,
+            "area": "Havelock Island"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 8000,
+        "food_per_day": 700,
+        "activities_per_day": 1500,
+        "local_transport_per_day": 500
+      }
+    },
+    "amritsar": {
+      "name": "Amritsar",
+      "best_time": "October to March",
+      "description": "The spiritual heart of Punjab, home to the magnificent Golden Temple and rich Sikh heritage.",
+      "tips": [
+        "Cover your head before entering Golden Temple",
+        "Visit Wagah Border ceremony at sunset",
+        "Try authentic Amritsari kulcha and lassi",
+        "Golden Temple langar is free for everyone",
+        "Carry comfortable walking shoes"
+      ],
+      "map_link": "https://maps.google.com/?q=Amritsar,Punjab",
+      "days": {
+        "1": {
+          "title": "Golden Temple & Spiritual Morning",
+          "places": [
+            {
+              "name": "Golden Temple (Harmandir Sahib)",
+              "desc": "Most sacred Sikh shrine, stunning in gold",
+              "map": "https://maps.google.com/?q=Golden+Temple+Amritsar"
+            },
+            {
+              "name": "Akal Takht",
+              "desc": "Highest seat of Sikh temporal authority",
+              "map": "https://maps.google.com/?q=Akal+Takht+Amritsar"
+            },
+            {
+              "name": "Jallianwala Bagh",
+              "desc": "Historic garden, site of 1919 massacre",
+              "map": "https://maps.google.com/?q=Jallianwala+Bagh+Amritsar"
+            }
+          ],
+          "activities": [
+            "Temple visit at dawn",
+            "Langar experience",
+            "Memorial walk"
+          ],
+          "food": [
+            "Kesar Da Dhaba",
+            "Brothers Dhaba",
+            "Crystal Restaurant"
+          ]
+        },
+        "2": {
+          "title": "Wagah Border & Old City",
+          "places": [
+            {
+              "name": "Wagah Border",
+              "desc": "Daily flag-lowering ceremony at Indo-Pak border",
+              "map": "https://maps.google.com/?q=Wagah+Border+Amritsar"
+            },
+            {
+              "name": "Gobindgarh Fort",
+              "desc": "18th-century fort with light & sound show",
+              "map": "https://maps.google.com/?q=Gobindgarh+Fort+Amritsar"
+            },
+            {
+              "name": "Hall Bazaar",
+              "desc": "Famous market for Punjabi juttis & phulkari",
+              "map": "https://maps.google.com/?q=Hall+Bazaar+Amritsar"
+            }
+          ],
+          "activities": [
+            "Wagah ceremony",
+            "Fort exploration",
+            "Shopping for handicrafts"
+          ],
+          "food": [
+            "Beera Chicken House",
+            "Surjit Food Plaza",
+            "Gurdas Ram Jalebi"
+          ]
+        },
+        "3": {
+          "title": "Partition Museum & Local Life",
+          "places": [
+            {
+              "name": "Partition Museum",
+              "desc": "Emotional journey through India's partition",
+              "map": "https://maps.google.com/?q=Partition+Museum+Amritsar"
+            },
+            {
+              "name": "Durgiana Temple",
+              "desc": "Hindu temple similar to Golden Temple style",
+              "map": "https://maps.google.com/?q=Durgiana+Temple+Amritsar"
+            },
+            {
+              "name": "Lawrence Road",
+              "desc": "Modern shopping & food hub",
+              "map": "https://maps.google.com/?q=Lawrence+Road+Amritsar"
+            }
+          ],
+          "activities": [
+            "Museum visit",
+            "Temple hopping",
+            "Street food walk"
+          ],
+          "food": [
+            "Bharawan Da Dhaba",
+            "Ahuja Milk Bhandar",
+            "Novelty Sweets"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Hotel City Heart",
+            "price_per_night": 700,
+            "rating": 3.8,
+            "area": "Golden Temple Road"
+          },
+          {
+            "name": "Homestay Punjab Da Dera",
+            "price_per_night": 500,
+            "rating": 4.0,
+            "area": "Old City"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Holiday Inn Amritsar",
+            "price_per_night": 2800,
+            "rating": 4.3,
+            "area": "Mall Road"
+          },
+          {
+            "name": "Hotel Golden Tower",
+            "price_per_night": 2000,
+            "rating": 4.1,
+            "area": "Golden Temple Road"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Taj Swarna Amritsar",
+            "price_per_night": 9000,
+            "rating": 4.7,
+            "area": "Mall Road"
+          },
+          {
+            "name": "Hyatt Regency Amritsar",
+            "price_per_night": 7500,
+            "rating": 4.6,
+            "area": "Airport Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 800,
+        "food_per_day": 400,
+        "activities_per_day": 300,
+        "local_transport_per_day": 200
+      }
+    },
+    "darjeeling": {
+      "name": "Darjeeling",
+      "best_time": "March to May, September to November",
+      "description": "Queen of the Hills with stunning Kanchenjunga views, tea gardens, and the iconic toy train.",
+      "tips": [
+        "Wake up at 4 AM for Tiger Hill sunrise",
+        "Book toy train tickets well in advance",
+        "Try local Darjeeling tea directly from gardens",
+        "Carry warm layers — chilly even in summer",
+        "Acclimatize on arrival day"
+      ],
+      "map_link": "https://maps.google.com/?q=Darjeeling,West+Bengal",
+      "days": {
+        "1": {
+          "title": "Tiger Hill Sunrise & Tea Gardens",
+          "places": [
+            {
+              "name": "Tiger Hill",
+              "desc": "Best sunrise view of Kanchenjunga & Everest",
+              "map": "https://maps.google.com/?q=Tiger+Hill+Darjeeling"
+            },
+            {
+              "name": "Happy Valley Tea Estate",
+              "desc": "One of Darjeeling's oldest tea gardens",
+              "map": "https://maps.google.com/?q=Happy+Valley+Tea+Estate+Darjeeling"
+            },
+            {
+              "name": "Ghum Monastery",
+              "desc": "Oldest monastery in Darjeeling region",
+              "map": "https://maps.google.com/?q=Ghum+Monastery+Darjeeling"
+            }
+          ],
+          "activities": [
+            "Sunrise trek",
+            "Tea garden walk",
+            "Monastery visit"
+          ],
+          "food": [
+            "Glenary's Bakery",
+            "Frank Ross Cafe",
+            "Kunga Restaurant"
+          ]
+        },
+        "2": {
+          "title": "Toy Train & Mall Road",
+          "places": [
+            {
+              "name": "Darjeeling Himalayan Railway",
+              "desc": "UNESCO heritage toy train",
+              "map": "https://maps.google.com/?q=Darjeeling+Toy+Train"
+            },
+            {
+              "name": "Mall Road & Chowrasta",
+              "desc": "Heart of town with mountain views",
+              "map": "https://maps.google.com/?q=Chowrasta+Darjeeling"
+            },
+            {
+              "name": "Padmaja Naidu Zoo",
+              "desc": "Red pandas and snow leopards",
+              "map": "https://maps.google.com/?q=Padmaja+Naidu+Zoo+Darjeeling"
+            }
+          ],
+          "activities": [
+            "Toy train ride",
+            "Shopping at Chowrasta",
+            "Zoo visit"
+          ],
+          "food": [
+            "Sonam's Kitchen",
+            "The Windamere Hotel",
+            "Joey's Pub"
+          ]
+        },
+        "3": {
+          "title": "Mirik & Local Villages",
+          "places": [
+            {
+              "name": "Mirik Lake",
+              "desc": "Serene lake with orange orchards nearby",
+              "map": "https://maps.google.com/?q=Mirik+Lake+Darjeeling"
+            },
+            {
+              "name": "Rock Garden",
+              "desc": "Beautiful terraced garden with waterfall",
+              "map": "https://maps.google.com/?q=Rock+Garden+Darjeeling"
+            },
+            {
+              "name": "Batasia Loop",
+              "desc": "Spiral railway loop with Gorkha war memorial",
+              "map": "https://maps.google.com/?q=Batasia+Loop+Darjeeling"
+            }
+          ],
+          "activities": [
+            "Boating at Mirik",
+            "Garden walk",
+            "Loop photography"
+          ],
+          "food": [
+            "Park Restaurant",
+            "Lunar Restaurant",
+            "Golden Tips Tea Room"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Darjeeling",
+            "price_per_night": 600,
+            "rating": 4.2,
+            "area": "Gandhi Road"
+          },
+          {
+            "name": "Hotel Main Land",
+            "price_per_night": 800,
+            "rating": 3.7,
+            "area": "Mall Road"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Elgin Hotel",
+            "price_per_night": 3500,
+            "rating": 4.4,
+            "area": "HD Lama Road"
+          },
+          {
+            "name": "Cedar Inn",
+            "price_per_night": 2500,
+            "rating": 4.2,
+            "area": "Nehru Road"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "The Windamere Hotel",
+            "price_per_night": 8000,
+            "rating": 4.6,
+            "area": "Observatory Hill"
+          },
+          {
+            "name": "Mayfair Darjeeling",
+            "price_per_night": 10000,
+            "rating": 4.7,
+            "area": "The Mall"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 500,
+        "activities_per_day": 400,
+        "local_transport_per_day": 300
+      }
+    },
+    "leh_ladakh": {
+      "name": "Leh Ladakh",
+      "best_time": "June to September",
+      "description": "The land of high passes — dramatic moonscapes, ancient monasteries, and the world's highest roads.",
+      "tips": [
+        "Acclimatize for 2 days before any trek",
+        "Carry altitude sickness medicine (Diamox)",
+        "Book permits for Pangong, Nubra in advance",
+        "Fuel up in Leh — no petrol pumps ahead",
+        "Carry cash — no ATMs in remote areas"
+      ],
+      "map_link": "https://maps.google.com/?q=Leh+Ladakh",
+      "days": {
+        "1": {
+          "title": "Leh City & Acclimatization",
+          "places": [
+            {
+              "name": "Leh Palace",
+              "desc": "9-storey palace overlooking Leh city",
+              "map": "https://maps.google.com/?q=Leh+Palace"
+            },
+            {
+              "name": "Shanti Stupa",
+              "desc": "White-domed Buddhist stupa with 360° views",
+              "map": "https://maps.google.com/?q=Shanti+Stupa+Leh"
+            },
+            {
+              "name": "Leh Market",
+              "desc": "Buy pashmina, turquoise jewelry & dried fruit",
+              "map": "https://maps.google.com/?q=Leh+Main+Market"
+            }
+          ],
+          "activities": [
+            "Palace trek",
+            "Stupa visit",
+            "Market shopping"
+          ],
+          "food": [
+            "The Tibetan Kitchen",
+            "Lamayuru Restaurant",
+            "Gesmo Restaurant"
+          ]
+        },
+        "2": {
+          "title": "Pangong Lake",
+          "places": [
+            {
+              "name": "Pangong Tso Lake",
+              "desc": "Famous blue lake at 4,350m altitude",
+              "map": "https://maps.google.com/?q=Pangong+Lake+Ladakh"
+            },
+            {
+              "name": "Chang La Pass",
+              "desc": "Third highest motorable road in the world",
+              "map": "https://maps.google.com/?q=Chang+La+Pass"
+            },
+            {
+              "name": "Hemis Monastery",
+              "desc": "Largest and wealthiest monastery in Ladakh",
+              "map": "https://maps.google.com/?q=Hemis+Monastery"
+            }
+          ],
+          "activities": [
+            "Lake photography",
+            "High altitude drive",
+            "Monastery visit"
+          ],
+          "food": [
+            "Pangong Tso Camp meals",
+            "Thukpa & Momos at roadside dhabas"
+          ]
+        },
+        "3": {
+          "title": "Nubra Valley & Sand Dunes",
+          "places": [
+            {
+              "name": "Khardung La Pass",
+              "desc": "One of world's highest motorable passes",
+              "map": "https://maps.google.com/?q=Khardung+La+Pass"
+            },
+            {
+              "name": "Nubra Valley",
+              "desc": "Cold desert with sand dunes & camels",
+              "map": "https://maps.google.com/?q=Nubra+Valley+Ladakh"
+            },
+            {
+              "name": "Diskit Monastery",
+              "desc": "Giant Maitreya Buddha overlooking valley",
+              "map": "https://maps.google.com/?q=Diskit+Monastery+Nubra"
+            }
+          ],
+          "activities": [
+            "Bactrian camel safari",
+            "High pass drive",
+            "Sand dune visit"
+          ],
+          "food": [
+            "Nubra Organic Retreat",
+            "Hunder Desert Camp",
+            "Local thukpa shops"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Stok Guesthouse",
+            "price_per_night": 800,
+            "rating": 3.9,
+            "area": "Stok Village"
+          },
+          {
+            "name": "Hotel Horzey",
+            "price_per_night": 1000,
+            "rating": 3.8,
+            "area": "Leh Main"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "The Grand Dragon Ladakh",
+            "price_per_night": 4500,
+            "rating": 4.4,
+            "area": "Leh City"
+          },
+          {
+            "name": "Hotel Caravan Centre",
+            "price_per_night": 3000,
+            "rating": 4.2,
+            "area": "Leh"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "The Chamba Camp Pangong",
+            "price_per_night": 12000,
+            "rating": 4.7,
+            "area": "Pangong Lake"
+          },
+          {
+            "name": "Nimmu House",
+            "price_per_night": 10000,
+            "rating": 4.8,
+            "area": "Nimmu Village"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 6000,
+        "food_per_day": 600,
+        "activities_per_day": 1000,
+        "local_transport_per_day": 800
+      }
+    },
+    "mysore": {
+      "name": "Mysore",
+      "best_time": "October to February",
+      "description": "The City of Palaces — royal heritage, fragrant sandalwood, silk sarees, and Dasara grandeur.",
+      "tips": [
+        "Visit Mysore Palace on Sundays for illumination",
+        "Book palace tickets online to skip queues",
+        "Try Mysore Pak and Mysore Masala Dosa",
+        "Dasara festival (Oct) is spectacular",
+        "Hire a local guide at the palace"
+      ],
+      "map_link": "https://maps.google.com/?q=Mysore,Karnataka",
+      "days": {
+        "1": {
+          "title": "Mysore Palace & Heritage Walk",
+          "places": [
+            {
+              "name": "Mysore Palace",
+              "desc": "Magnificent 14-story royal palace",
+              "map": "https://maps.google.com/?q=Mysore+Palace"
+            },
+            {
+              "name": "Devaraja Market",
+              "desc": "Colorful market for flowers, spices & silk",
+              "map": "https://maps.google.com/?q=Devaraja+Market+Mysore"
+            },
+            {
+              "name": "Chamundeshwari Temple",
+              "desc": "Hilltop temple with city panorama",
+              "map": "https://maps.google.com/?q=Chamundi+Hill+Mysore"
+            }
+          ],
+          "activities": [
+            "Palace tour",
+            "Market walk",
+            "Temple climb"
+          ],
+          "food": [
+            "Hotel RRR",
+            "Vinayaka Mylari",
+            "Hotel Dasaprakash"
+          ]
+        },
+        "2": {
+          "title": "Brindavan Gardens & Srirangapatna",
+          "places": [
+            {
+              "name": "Brindavan Gardens",
+              "desc": "Musical fountain garden at KRS Dam",
+              "map": "https://maps.google.com/?q=Brindavan+Gardens+Mysore"
+            },
+            {
+              "name": "Srirangapatna Fort",
+              "desc": "Tipu Sultan's island fortress",
+              "map": "https://maps.google.com/?q=Srirangapatna+Fort"
+            },
+            {
+              "name": "Ranganathittu Bird Sanctuary",
+              "desc": "River island sanctuary with crocodiles",
+              "map": "https://maps.google.com/?q=Ranganathittu+Bird+Sanctuary"
+            }
+          ],
+          "activities": [
+            "Garden light show",
+            "Fort visit",
+            "Boat safari"
+          ],
+          "food": [
+            "Café Aramane",
+            "Green Hotel",
+            "Hotel Metropole"
+          ]
+        },
+        "3": {
+          "title": "Silk & Sandalwood Shopping",
+          "places": [
+            {
+              "name": "Government Silk Factory",
+              "desc": "See how Mysore silk is woven",
+              "map": "https://maps.google.com/?q=Government+Silk+Factory+Mysore"
+            },
+            {
+              "name": "Sandalwood Oil Factory",
+              "desc": "Source of world-famous Mysore sandalwood",
+              "map": "https://maps.google.com/?q=Sandalwood+Factory+Mysore"
+            },
+            {
+              "name": "Jaganmohan Palace Art Gallery",
+              "desc": "Royal art collection & antiques",
+              "map": "https://maps.google.com/?q=Jaganmohan+Palace+Mysore"
+            }
+          ],
+          "activities": [
+            "Silk weaving tour",
+            "Sandalwood products shopping",
+            "Art gallery"
+          ],
+          "food": [
+            "Vinayaka Mylari",
+            "Hotel Siddharta",
+            "Cafe Aramane"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Hotel Mayura Hoysala",
+            "price_per_night": 900,
+            "rating": 3.8,
+            "area": "Jhansi Lakshmi Bai Road"
+          },
+          {
+            "name": "Zostel Mysore",
+            "price_per_night": 600,
+            "rating": 4.0,
+            "area": "City Centre"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Hotel Sandesh The Prince",
+            "price_per_night": 2500,
+            "rating": 4.2,
+            "area": "Nazarbad"
+          },
+          {
+            "name": "Treebo Hotel Pride Mysore",
+            "price_per_night": 2000,
+            "rating": 4.1,
+            "area": "Gokulam"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Radisson Blu Plaza Hotel Mysore",
+            "price_per_night": 7000,
+            "rating": 4.5,
+            "area": "Mysore-Ooty Road"
+          },
+          {
+            "name": "Lalitha Mahal Palace Hotel",
+            "price_per_night": 12000,
+            "rating": 4.6,
+            "area": "T Narasipur Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1200,
+        "food_per_day": 400,
+        "activities_per_day": 400,
+        "local_transport_per_day": 200
+      }
+    },
+    "pondicherry": {
+      "name": "Pondicherry",
+      "best_time": "October to March",
+      "description": "The French Riviera of the East — colonial boulevards, yellow walls, Auroville, and serene beaches.",
+      "tips": [
+        "Explore the French Quarter on foot or cycle",
+        "Visit Auroville Matrimandir (book in advance)",
+        "Beaches are rocky — not for swimming",
+        "Try authentic French-Tamil fusion cuisine",
+        "Evening walk on Promenade Beach is a must"
+      ],
+      "map_link": "https://maps.google.com/?q=Pondicherry,India",
+      "days": {
+        "1": {
+          "title": "French Quarter & Promenade",
+          "places": [
+            {
+              "name": "Promenade Beach",
+              "desc": "Colonial boulevard along the Bay of Bengal",
+              "map": "https://maps.google.com/?q=Promenade+Beach+Pondicherry"
+            },
+            {
+              "name": "French Quarter (White Town)",
+              "desc": "Yellow colonial buildings, boutiques, cafes",
+              "map": "https://maps.google.com/?q=White+Town+Pondicherry"
+            },
+            {
+              "name": "Sacred Heart Basilica",
+              "desc": "Beautiful Gothic-style French church",
+              "map": "https://maps.google.com/?q=Sacred+Heart+Basilica+Pondicherry"
+            }
+          ],
+          "activities": [
+            "Heritage walk",
+            "Photography",
+            "Beach sunrise"
+          ],
+          "food": [
+            "Baker Street",
+            "Le Café",
+            "Surguru Restaurant"
+          ]
+        },
+        "2": {
+          "title": "Auroville & Sri Aurobindo Ashram",
+          "places": [
+            {
+              "name": "Auroville Matrimandir",
+              "desc": "Golden sphere meditation center",
+              "map": "https://maps.google.com/?q=Auroville+Pondicherry"
+            },
+            {
+              "name": "Sri Aurobindo Ashram",
+              "desc": "Famous spiritual community & samadhi",
+              "map": "https://maps.google.com/?q=Sri+Aurobindo+Ashram+Pondicherry"
+            },
+            {
+              "name": "Auroville Visitor Centre",
+              "desc": "Learn about the Universal Township project",
+              "map": "https://maps.google.com/?q=Auroville+Visitor+Centre"
+            }
+          ],
+          "activities": [
+            "Meditation",
+            "Ashram visit",
+            "Cycling in Auroville"
+          ],
+          "food": [
+            "Cafe des Arts",
+            "Tanto",
+            "Surguru"
+          ]
+        },
+        "3": {
+          "title": "Beaches & Tamil Quarter",
+          "places": [
+            {
+              "name": "Paradise Beach",
+              "desc": "Accessible by ferry, pristine sands",
+              "map": "https://maps.google.com/?q=Paradise+Beach+Pondicherry"
+            },
+            {
+              "name": "Bharathi Park",
+              "desc": "Central park with French architecture",
+              "map": "https://maps.google.com/?q=Bharathi+Park+Pondicherry"
+            },
+            {
+              "name": "Goubert Market",
+              "desc": "Local market for handicrafts & food",
+              "map": "https://maps.google.com/?q=Goubert+Market+Pondicherry"
+            }
+          ],
+          "activities": [
+            "Ferry to Paradise Beach",
+            "Park walk",
+            "Market shopping"
+          ],
+          "food": [
+            "Maison Perumal",
+            "Villa Shanti",
+            "The Promenade Hotel Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Gratitude Heritage Guest House",
+            "price_per_night": 700,
+            "rating": 4.1,
+            "area": "French Quarter"
+          },
+          {
+            "name": "Zostel Pondicherry",
+            "price_per_night": 550,
+            "rating": 4.0,
+            "area": "White Town"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Palais de Mahe",
+            "price_per_night": 3000,
+            "rating": 4.4,
+            "area": "White Town"
+          },
+          {
+            "name": "Hotel de L'Orient",
+            "price_per_night": 3500,
+            "rating": 4.5,
+            "area": "French Quarter"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "The Promenade",
+            "price_per_night": 8000,
+            "rating": 4.6,
+            "area": "Beach Road"
+          },
+          {
+            "name": "Dune Eco Village & Beach Resort",
+            "price_per_night": 10000,
+            "rating": 4.7,
+            "area": "ECR Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 500,
+        "activities_per_day": 400,
+        "local_transport_per_day": 200
+      }
+    },
+    "spiti": {
+      "name": "Spiti Valley",
+      "best_time": "June to October",
+      "description": "The Middle Land — a remote Himalayan cold desert with ancient monasteries, fossils, and starry skies.",
+      "tips": [
+        "Acclimatize at Shimla or Manali before entering",
+        "Carry enough cash — no ATMs in the valley",
+        "Check road conditions before travel",
+        "Permits required for some areas",
+        "Stargazing at Komic & Kibber is world-class"
+      ],
+      "map_link": "https://maps.google.com/?q=Spiti+Valley,Himachal+Pradesh",
+      "days": {
+        "1": {
+          "title": "Key Monastery & Kaza",
+          "places": [
+            {
+              "name": "Key Monastery",
+              "desc": "1000-year-old gompa at 4,166m altitude",
+              "map": "https://maps.google.com/?q=Key+Monastery+Spiti"
+            },
+            {
+              "name": "Kaza Town",
+              "desc": "Headquarters of Spiti with local markets",
+              "map": "https://maps.google.com/?q=Kaza+Spiti"
+            },
+            {
+              "name": "Komic Village",
+              "desc": "One of world's highest inhabited villages",
+              "map": "https://maps.google.com/?q=Komic+Village+Spiti"
+            }
+          ],
+          "activities": [
+            "Monastery prayer session",
+            "Village walk",
+            "Stargazing"
+          ],
+          "food": [
+            "Sol Cafe Kaza",
+            "Sakya Abode",
+            "local homestay meals"
+          ]
+        },
+        "2": {
+          "title": "Chandratal Lake",
+          "places": [
+            {
+              "name": "Chandratal Lake",
+              "desc": "Moon Lake at 4,300m — stunning turquoise",
+              "map": "https://maps.google.com/?q=Chandratal+Lake+Spiti"
+            },
+            {
+              "name": "Kunzum Pass",
+              "desc": "High altitude pass between Lahaul & Spiti",
+              "map": "https://maps.google.com/?q=Kunzum+Pass"
+            },
+            {
+              "name": "Batal",
+              "desc": "Remote dhabas at the crossroads",
+              "map": "https://maps.google.com/?q=Batal+Spiti"
+            }
+          ],
+          "activities": [
+            "Lake trek",
+            "Mountain photography",
+            "Camp fire"
+          ],
+          "food": [
+            "Chacha Chachi Dhaba Batal",
+            "Camp meals"
+          ]
+        },
+        "3": {
+          "title": "Dhankar & Pin Valley",
+          "places": [
+            {
+              "name": "Dhankar Monastery",
+              "desc": "Precariously perched monastery on cliff edge",
+              "map": "https://maps.google.com/?q=Dhankar+Monastery+Spiti"
+            },
+            {
+              "name": "Pin Valley National Park",
+              "desc": "Snow leopard territory, rare Himalayan flora",
+              "map": "https://maps.google.com/?q=Pin+Valley+National+Park"
+            },
+            {
+              "name": "Kibber Village",
+              "desc": "Highest car-accessible village in the world",
+              "map": "https://maps.google.com/?q=Kibber+Village+Spiti"
+            }
+          ],
+          "activities": [
+            "Monastery hike",
+            "Wildlife spotting",
+            "Village photography"
+          ],
+          "food": [
+            "Kibber Guesthouse",
+            "Dhankar Guesthouse meals"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Kaza",
+            "price_per_night": 500,
+            "rating": 4.3,
+            "area": "Kaza"
+          },
+          {
+            "name": "Sakya Abode",
+            "price_per_night": 700,
+            "rating": 4.2,
+            "area": "Kaza"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Spiti Holiday Retreat",
+            "price_per_night": 2000,
+            "rating": 4.1,
+            "area": "Kaza"
+          },
+          {
+            "name": "Deyzor Spiti",
+            "price_per_night": 2500,
+            "rating": 4.4,
+            "area": "Kaza"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Spiti Ecocamp",
+            "price_per_night": 6000,
+            "rating": 4.5,
+            "area": "Kaza"
+          },
+          {
+            "name": "The Hermitage Spiti",
+            "price_per_night": 7500,
+            "rating": 4.6,
+            "area": "Kaza"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 3000,
+        "food_per_day": 400,
+        "activities_per_day": 600,
+        "local_transport_per_day": 600
+      }
+    },
+    "coorg": {
+      "name": "Coorg (Kodagu)",
+      "best_time": "October to March",
+      "description": "Scotland of India — misty coffee plantations, lush rainforests, Kodava culture, and cascading waterfalls.",
+      "tips": [
+        "Rent a self-drive car or hire a taxi for sightseeing",
+        "Visit Abbey Falls early morning to avoid crowds",
+        "Try Pandi curry and Kadumbuttu (Kodava food)",
+        "Coffee and spice estates offer free plantation tours",
+        "Monsoon (June-Sep) makes drives tricky but scenic"
+      ],
+      "map_link": "https://maps.google.com/?q=Coorg,Karnataka",
+      "days": {
+        "1": {
+          "title": "Abbey Falls & Coffee Estates",
+          "places": [
+            {
+              "name": "Abbey Falls",
+              "desc": "Spectacular waterfall surrounded by coffee estates",
+              "map": "https://maps.google.com/?q=Abbey+Falls+Coorg"
+            },
+            {
+              "name": "Raja's Seat",
+              "desc": "Royal viewpoint with sunset panorama",
+              "map": "https://maps.google.com/?q=Rajas+Seat+Madikeri"
+            },
+            {
+              "name": "Madikeri Fort",
+              "desc": "Mysore-era fort with temple & museum",
+              "map": "https://maps.google.com/?q=Madikeri+Fort+Coorg"
+            }
+          ],
+          "activities": [
+            "Waterfall visit",
+            "Coffee plantation walk",
+            "Sunset viewing"
+          ],
+          "food": [
+            "Capitol Village Resort",
+            "Coorg Cuisine Restaurant",
+            "Hotel Cauvery"
+          ]
+        },
+        "2": {
+          "title": "Nagarhole & Wildlife",
+          "places": [
+            {
+              "name": "Nagarhole National Park",
+              "desc": "Tigers, elephants & leopards in dense forest",
+              "map": "https://maps.google.com/?q=Nagarhole+National+Park"
+            },
+            {
+              "name": "Kabini Reservoir",
+              "desc": "Stunning backwaters on park boundary",
+              "map": "https://maps.google.com/?q=Kabini+Reservoir+Coorg"
+            },
+            {
+              "name": "Dubare Elephant Camp",
+              "desc": "Interact with elephants at river bank",
+              "map": "https://maps.google.com/?q=Dubare+Elephant+Camp"
+            }
+          ],
+          "activities": [
+            "Jungle safari",
+            "Elephant interaction",
+            "Boat ride"
+          ],
+          "food": [
+            "Jungle Lodges Resort",
+            "Kabini River Lodge"
+          ]
+        },
+        "3": {
+          "title": "Talacauvery & Iruppu Falls",
+          "places": [
+            {
+              "name": "Talacauvery",
+              "desc": "Origin of River Cauvery, sacred pilgrimage spot",
+              "map": "https://maps.google.com/?q=Talacauvery+Coorg"
+            },
+            {
+              "name": "Iruppu Falls",
+              "desc": "Waterfall near Brahmagiri wildlife sanctuary",
+              "map": "https://maps.google.com/?q=Iruppu+Falls+Coorg"
+            },
+            {
+              "name": "Bhagamandala",
+              "desc": "Confluence of three rivers, ancient temple",
+              "map": "https://maps.google.com/?q=Bhagamandala+Coorg"
+            }
+          ],
+          "activities": [
+            "Temple visit",
+            "Waterfall trek",
+            "River confluence"
+          ],
+          "food": [
+            "Hotel Mayura Valley View",
+            "Raintree Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Hotel Cauvery",
+            "price_per_night": 800,
+            "rating": 3.7,
+            "area": "Madikeri"
+          },
+          {
+            "name": "Zostel Coorg",
+            "price_per_night": 600,
+            "rating": 4.1,
+            "area": "Madikeri"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Coorg Cliffs Resort",
+            "price_per_night": 3000,
+            "rating": 4.3,
+            "area": "Madikeri"
+          },
+          {
+            "name": "The Tamara Coorg",
+            "price_per_night": 4000,
+            "rating": 4.5,
+            "area": "Yavakapady"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Orange County Resort",
+            "price_per_night": 12000,
+            "rating": 4.8,
+            "area": "Siddapura"
+          },
+          {
+            "name": "Vivanta Coorg",
+            "price_per_night": 10000,
+            "rating": 4.7,
+            "area": "Madikeri"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1500,
+        "food_per_day": 500,
+        "activities_per_day": 600,
+        "local_transport_per_day": 400
+      }
+    },
+    "pushkar": {
+      "name": "Pushkar",
+      "best_time": "October to March (Camel Fair in November)",
+      "description": "Sacred lake city with the world's only Brahma Temple, colorful bazaars, and the legendary Camel Fair.",
+      "tips": [
+        "Alcohol and meat are strictly prohibited",
+        "Attend aarti at Pushkar Lake at dawn/dusk",
+        "The Camel Fair in November is a once-in-a-lifetime experience",
+        "Bargain hard at the bazaars",
+        "Sunrise from Savitri Temple hill is magical"
+      ],
+      "map_link": "https://maps.google.com/?q=Pushkar,Rajasthan",
+      "days": {
+        "1": {
+          "title": "Pushkar Lake & Brahma Temple",
+          "places": [
+            {
+              "name": "Pushkar Lake",
+              "desc": "Sacred lake with 52 ghats",
+              "map": "https://maps.google.com/?q=Pushkar+Lake"
+            },
+            {
+              "name": "Brahma Temple",
+              "desc": "One of the very few temples dedicated to Lord Brahma",
+              "map": "https://maps.google.com/?q=Brahma+Temple+Pushkar"
+            },
+            {
+              "name": "Pushkar Bazaar",
+              "desc": "Colorful market for tie-dye clothes & silver jewelry",
+              "map": "https://maps.google.com/?q=Pushkar+Bazaar"
+            }
+          ],
+          "activities": [
+            "Lake aarti",
+            "Temple visit",
+            "Bazaar shopping"
+          ],
+          "food": [
+            "Om Shiva Rooftop",
+            "Honey & Spice Cafe",
+            "Sunset Cafe"
+          ]
+        },
+        "2": {
+          "title": "Savitri Temple & Camel Trek",
+          "places": [
+            {
+              "name": "Savitri Temple",
+              "desc": "Hilltop temple with panoramic city views",
+              "map": "https://maps.google.com/?q=Savitri+Temple+Pushkar"
+            },
+            {
+              "name": "Pushkar Desert",
+              "desc": "Sand dunes on the outskirts",
+              "map": "https://maps.google.com/?q=Pushkar+Desert"
+            },
+            {
+              "name": "Rose Garden",
+              "desc": "Largest producer of rose water & petals",
+              "map": "https://maps.google.com/?q=Rose+Garden+Pushkar"
+            }
+          ],
+          "activities": [
+            "Sunrise trek to Savitri",
+            "Camel safari",
+            "Rose farm visit"
+          ],
+          "food": [
+            "Raju Rooftop",
+            "Pink Floyd Cafe",
+            "Funky Monkey Cafe"
+          ]
+        },
+        "3": {
+          "title": "Ajmer & Dargah Visit",
+          "places": [
+            {
+              "name": "Ajmer Dargah Sharif",
+              "desc": "Famous Sufi shrine of Khwaja Moinuddin Chishti",
+              "map": "https://maps.google.com/?q=Ajmer+Dargah"
+            },
+            {
+              "name": "Ana Sagar Lake",
+              "desc": "Artificial lake with Daulat Bagh gardens",
+              "map": "https://maps.google.com/?q=Ana+Sagar+Lake+Ajmer"
+            },
+            {
+              "name": "Taragarh Fort",
+              "desc": "Ancient hill fort overlooking Ajmer",
+              "map": "https://maps.google.com/?q=Taragarh+Fort+Ajmer"
+            }
+          ],
+          "activities": [
+            "Dargah visit",
+            "Lake walk",
+            "Fort exploration"
+          ],
+          "food": [
+            "Hotel Honeydew Ajmer",
+            "Tanveer Hotel",
+            "Mango Masala"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Hotel Paramount Palace",
+            "price_per_night": 600,
+            "rating": 3.8,
+            "area": "Pushkar Bazaar"
+          },
+          {
+            "name": "Baba Guest House",
+            "price_per_night": 500,
+            "rating": 3.9,
+            "area": "Lake View"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Westin Pushkar Resort & Spa",
+            "price_per_night": 3500,
+            "rating": 4.4,
+            "area": "Ajmer Road"
+          },
+          {
+            "name": "Hotel Pushkar Palace",
+            "price_per_night": 2500,
+            "rating": 4.3,
+            "area": "Pushkar Lake"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "The Westin Pushkar",
+            "price_per_night": 9000,
+            "rating": 4.6,
+            "area": "Gajendra Marg"
+          },
+          {
+            "name": "Ananta Spa & Resort",
+            "price_per_night": 8000,
+            "rating": 4.5,
+            "area": "Pushkar-Ajmer Road"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 900,
+        "food_per_day": 350,
+        "activities_per_day": 400,
+        "local_transport_per_day": 200
+      }
+    },
+    "hampi": {
+      "name": "Hampi",
+      "best_time": "October to February",
+      "description": "Ruins of the Vijayanagara Empire — a UNESCO World Heritage Site with boulders, temples, and ancient bazaars.",
+      "tips": [
+        "Hire a bicycle or auto for sightseeing",
+        "Virupaksha Temple opens at 6 AM — go early",
+        "Sunset from Matanga Hill is unmissable",
+        "Book accommodation across the river in Virupapur Gaddi",
+        "Carry water — it gets very hot"
+      ],
+      "map_link": "https://maps.google.com/?q=Hampi,Karnataka",
+      "days": {
+        "1": {
+          "title": "Royal Enclosure & Virupaksha Temple",
+          "places": [
+            {
+              "name": "Virupaksha Temple",
+              "desc": "Living temple complex dedicated to Shiva",
+              "map": "https://maps.google.com/?q=Virupaksha+Temple+Hampi"
+            },
+            {
+              "name": "Royal Enclosure",
+              "desc": "Ruins of the Vijayanagara royal palace",
+              "map": "https://maps.google.com/?q=Royal+Enclosure+Hampi"
+            },
+            {
+              "name": "Lotus Mahal",
+              "desc": "Exquisite pavilion blending Hindu-Islamic styles",
+              "map": "https://maps.google.com/?q=Lotus+Mahal+Hampi"
+            }
+          ],
+          "activities": [
+            "Temple morning prayers",
+            "Heritage walk",
+            "Ruins photography"
+          ],
+          "food": [
+            "Mango Tree Restaurant",
+            "Laughing Buddha",
+            "Ravi's Rooftop Cafe"
+          ]
+        },
+        "2": {
+          "title": "Vittala Temple & Stone Chariot",
+          "places": [
+            {
+              "name": "Vittala Temple & Stone Chariot",
+              "desc": "Finest Vijayanagara architecture with musical pillars",
+              "map": "https://maps.google.com/?q=Vittala+Temple+Hampi"
+            },
+            {
+              "name": "Hampi Bazaar",
+              "desc": "Ancient market street lined with ruins",
+              "map": "https://maps.google.com/?q=Hampi+Bazaar"
+            },
+            {
+              "name": "Matanga Hill",
+              "desc": "Highest point in Hampi for sunset views",
+              "map": "https://maps.google.com/?q=Matanga+Hill+Hampi"
+            }
+          ],
+          "activities": [
+            "Temple complex tour",
+            "Sunset from Matanga",
+            "Boulder climbing"
+          ],
+          "food": [
+            "Gopi Rooftop",
+            "New Shanthi Restaurant",
+            "Funky Monkey"
+          ]
+        },
+        "3": {
+          "title": "Hippie Island & Coracle Ride",
+          "places": [
+            {
+              "name": "Virupapur Gaddi (Hippie Island)",
+              "desc": "Bohemian island across the river",
+              "map": "https://maps.google.com/?q=Virupapur+Gaddi+Hampi"
+            },
+            {
+              "name": "Tungabhadra River",
+              "desc": "Sacred river with coracle boat rides",
+              "map": "https://maps.google.com/?q=Tungabhadra+River+Hampi"
+            },
+            {
+              "name": "Hemakuta Hill Temples",
+              "desc": "Pre-Vijayanagara temples with sunrise views",
+              "map": "https://maps.google.com/?q=Hemakuta+Hill+Hampi"
+            }
+          ],
+          "activities": [
+            "Coracle ride",
+            "Sunrise at Hemakuta",
+            "Island cycling"
+          ],
+          "food": [
+            "Gypsy Cafe Hampi",
+            "Chill Out Restaurant",
+            "German Bakery"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Hampi",
+            "price_per_night": 500,
+            "rating": 4.3,
+            "area": "Hampi Bazaar"
+          },
+          {
+            "name": "Shanthi Guest House",
+            "price_per_night": 600,
+            "rating": 3.9,
+            "area": "Virupapur Gaddi"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Evolve Back Hampi",
+            "price_per_night": 4000,
+            "rating": 4.5,
+            "area": "Kamalapur"
+          },
+          {
+            "name": "Hotel Malligi Hospet",
+            "price_per_night": 2000,
+            "rating": 4.0,
+            "area": "Hospet"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "Evolve Back Hampi (Premium)",
+            "price_per_night": 10000,
+            "rating": 4.8,
+            "area": "Kamalapur"
+          },
+          {
+            "name": "Kishkinda Heritage Resort",
+            "price_per_night": 7000,
+            "rating": 4.5,
+            "area": "Anegundi"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 1200,
+        "food_per_day": 350,
+        "activities_per_day": 300,
+        "local_transport_per_day": 200
+      }
+    },
+    "mussoorie": {
+      "name": "Mussoorie",
+      "best_time": "March to June, September to November",
+      "description": "The Queen of Hills — Himalayan views, colonial charm, Kempty Falls, and the gateway to Gangotri.",
+      "tips": [
+        "Visit Gun Hill by ropeway for best mountain views",
+        "Mall Road is pedestrian-only in the evening",
+        "Kempty Falls gets crowded — go early",
+        "Char Dham yatra starts from Mussoorie side",
+        "Snow in December-January makes roads tricky"
+      ],
+      "map_link": "https://maps.google.com/?q=Mussoorie,Uttarakhand",
+      "days": {
+        "1": {
+          "title": "Mall Road & Gun Hill",
+          "places": [
+            {
+              "name": "Gun Hill",
+              "desc": "Second highest peak with Himalayan panorama",
+              "map": "https://maps.google.com/?q=Gun+Hill+Mussoorie"
+            },
+            {
+              "name": "Mall Road",
+              "desc": "Colonial promenade with shops & cafes",
+              "map": "https://maps.google.com/?q=Mall+Road+Mussoorie"
+            },
+            {
+              "name": "Camel's Back Road",
+              "desc": "Morning walk road shaped like camel's hump",
+              "map": "https://maps.google.com/?q=Camels+Back+Road+Mussoorie"
+            }
+          ],
+          "activities": [
+            "Ropeway to Gun Hill",
+            "Mall walk",
+            "Pony ride"
+          ],
+          "food": [
+            "Kalsang Restaurant",
+            "Lovely Omelette Centre",
+            "Cafe Coffee Day Mussoorie"
+          ]
+        },
+        "2": {
+          "title": "Kempty Falls & Landour",
+          "places": [
+            {
+              "name": "Kempty Falls",
+              "desc": "Gushing waterfall — most popular in Mussoorie",
+              "map": "https://maps.google.com/?q=Kempty+Falls+Mussoorie"
+            },
+            {
+              "name": "Landour Cantonment",
+              "desc": "Rustic British hill station above Mussoorie",
+              "map": "https://maps.google.com/?q=Landour+Mussoorie"
+            },
+            {
+              "name": "Lal Tibba",
+              "desc": "Highest point in Mussoorie with Himalayan telescope",
+              "map": "https://maps.google.com/?q=Lal+Tibba+Mussoorie"
+            }
+          ],
+          "activities": [
+            "Waterfall swimming",
+            "Landour heritage walk",
+            "Summit photography"
+          ],
+          "food": [
+            "Char Dukan Landour",
+            "Rokeby Manor",
+            "Castle Hill Restaurant"
+          ]
+        },
+        "3": {
+          "title": "Dhanaulti Day Trip",
+          "places": [
+            {
+              "name": "Dhanaulti",
+              "desc": "Quiet hill station with eco-parks & dense forests",
+              "map": "https://maps.google.com/?q=Dhanaulti+Mussoorie"
+            },
+            {
+              "name": "Surkanda Devi Temple",
+              "desc": "Sacred hilltop temple at 3,030m",
+              "map": "https://maps.google.com/?q=Surkanda+Devi+Temple"
+            },
+            {
+              "name": "George Everest House",
+              "desc": "Home of the man who measured Mount Everest",
+              "map": "https://maps.google.com/?q=George+Everest+House+Mussoorie"
+            }
+          ],
+          "activities": [
+            "Trek to Surkanda",
+            "Eco-park walk",
+            "Historical exploration"
+          ],
+          "food": [
+            "Hotel Grand Dhanaulti",
+            "Snow Valley Resorts Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Hotel Broadway Mussoorie",
+            "price_per_night": 800,
+            "rating": 3.7,
+            "area": "Mall Road"
+          },
+          {
+            "name": "Zostel Mussoorie",
+            "price_per_night": 600,
+            "rating": 4.1,
+            "area": "Library Chowk"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "Fortune Resort Grace",
+            "price_per_night": 3000,
+            "rating": 4.2,
+            "area": "The Mall"
+          },
+          {
+            "name": "Rokeby Manor",
+            "price_per_night": 3500,
+            "rating": 4.5,
+            "area": "Landour"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "JW Marriott Mussoorie",
+            "price_per_night": 12000,
+            "rating": 4.7,
+            "area": "Mall Road"
+          },
+          {
+            "name": "The Savoy Hotel",
+            "price_per_night": 9000,
+            "rating": 4.6,
+            "area": "The Mall"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 600,
+        "food_per_day": 500,
+        "activities_per_day": 500,
+        "local_transport_per_day": 300
+      }
+    },
+    "kolkata": {
+      "name": "Kolkata",
+      "best_time": "October to February",
+      "description": "The City of Joy — colonial grandeur, intellectual culture, street food paradise, and the warmest people in India.",
+      "tips": [
+        "The metro is the fastest way to get around",
+        "Durga Puja (October) transforms the entire city",
+        "Try kathi rolls, mishti doi, and rossogolla",
+        "Victoria Memorial is best at sunrise",
+        "Howrah Bridge is best photographed at dusk"
+      ],
+      "map_link": "https://maps.google.com/?q=Kolkata,West+Bengal",
+      "days": {
+        "1": {
+          "title": "Victoria Memorial & Maidan",
+          "places": [
+            {
+              "name": "Victoria Memorial",
+              "desc": "Stunning white marble monument & museum",
+              "map": "https://maps.google.com/?q=Victoria+Memorial+Kolkata"
+            },
+            {
+              "name": "Maidan",
+              "desc": "Largest urban park in Asia",
+              "map": "https://maps.google.com/?q=Maidan+Kolkata"
+            },
+            {
+              "name": "St. Paul's Cathedral",
+              "desc": "Gothic cathedral from the British era",
+              "map": "https://maps.google.com/?q=St+Pauls+Cathedral+Kolkata"
+            }
+          ],
+          "activities": [
+            "Museum visit",
+            "Park walk",
+            "Cathedral visit"
+          ],
+          "food": [
+            "Peter Cat",
+            "Flurys Tea Room",
+            "Mocambo"
+          ]
+        },
+        "2": {
+          "title": "Howrah Bridge & Street Food Walk",
+          "places": [
+            {
+              "name": "Howrah Bridge (Rabindra Setu)",
+              "desc": "Iconic cantilever bridge over Hooghly",
+              "map": "https://maps.google.com/?q=Howrah+Bridge+Kolkata"
+            },
+            {
+              "name": "Mullick Ghat Flower Market",
+              "desc": "Asia's largest flower market, open at dawn",
+              "map": "https://maps.google.com/?q=Mullick+Ghat+Flower+Market"
+            },
+            {
+              "name": "College Street & Coffee House",
+              "desc": "Intellectual hub with book stalls",
+              "map": "https://maps.google.com/?q=College+Street+Kolkata"
+            }
+          ],
+          "activities": [
+            "Bridge walk at dusk",
+            "Flower market at dawn",
+            "Book hunting"
+          ],
+          "food": [
+            "Indian Coffee House",
+            "Anadi Cabin",
+            "Balwant Singh Dhaba"
+          ]
+        },
+        "3": {
+          "title": "Dakshineswar & Marble Palace",
+          "places": [
+            {
+              "name": "Dakshineswar Kali Temple",
+              "desc": "Sacred Kali temple on Hooghly riverbank",
+              "map": "https://maps.google.com/?q=Dakshineswar+Temple+Kolkata"
+            },
+            {
+              "name": "Belur Math",
+              "desc": "Ramakrishna Mission HQ across the river",
+              "map": "https://maps.google.com/?q=Belur+Math+Kolkata"
+            },
+            {
+              "name": "Marble Palace",
+              "desc": "19th-century mansion with European art",
+              "map": "https://maps.google.com/?q=Marble+Palace+Kolkata"
+            }
+          ],
+          "activities": [
+            "Temple aarti",
+            "River ferry",
+            "Palace tour"
+          ],
+          "food": [
+            "6 Ballygunge Place",
+            "Arsalan",
+            "Shiraz Golden Restaurant"
+          ]
+        }
+      },
+      "hotels": {
+        "budget": [
+          {
+            "name": "Zostel Kolkata",
+            "price_per_night": 500,
+            "rating": 4.2,
+            "area": "Sudder Street"
+          },
+          {
+            "name": "Hotel Diplomat",
+            "price_per_night": 800,
+            "rating": 3.8,
+            "area": "Sudder Street"
+          }
+        ],
+        "midrange": [
+          {
+            "name": "The Oberoi Grand",
+            "price_per_night": 5000,
+            "rating": 4.6,
+            "area": "J.L. Nehru Road"
+          },
+          {
+            "name": "Lytton Hotel",
+            "price_per_night": 2500,
+            "rating": 4.1,
+            "area": "Sudder Street"
+          }
+        ],
+        "luxury": [
+          {
+            "name": "ITC Royal Bengal",
+            "price_per_night": 12000,
+            "rating": 4.8,
+            "area": "JBS Haldane Avenue"
+          },
+          {
+            "name": "Taj Bengal",
+            "price_per_night": 10000,
+            "rating": 4.7,
+            "area": "Alipore"
+          }
+        ]
+      },
+      "costs": {
+        "travel_per_person": 2000,
+        "food_per_day": 500,
+        "activities_per_day": 400,
+        "local_transport_per_day": 150
+      }
+    }
+  },
+  "travel_types": {
+    "friends": {
+      "vibe": "fun, adventure, party, group activities",
+      "emoji": "👫",
+      "activities_add": [
+        "nightlife spots",
+        "group adventure sports",
+        "pub crawls",
+        "group treks"
+      ],
+      "tips": [
+        "Split costs using Splitwise",
+        "Book group rooms or dorms",
+        "Plan common activities in advance"
+      ]
+    },
+    "couple": {
+      "vibe": "romantic, peaceful, scenic, intimate",
+      "emoji": "❤️",
+      "activities_add": [
+        "romantic dinners",
+        "sunset viewpoints",
+        "couple spa",
+        "scenic drives"
+      ],
+      "tips": [
+        "Book couple-friendly rooms with views",
+        "Avoid peak tourist hours",
+        "Carry a camera for memories"
+      ]
+    },
+    "family": {
+      "vibe": "comfortable, safe, educational, relaxed",
+      "emoji": "👨‍👩‍👧‍👦",
+      "activities_add": [
+        "kid-friendly attractions",
+        "cultural shows",
+        "heritage walks",
+        "comfortable transport"
+      ],
+      "tips": [
+        "Book connecting rooms or family suites",
+        "Keep itinerary flexible for kids",
+        "Carry medicines and snacks"
+      ]
+    },
+    "solo": {
+      "vibe": "freedom, self-discovery, budget-friendly, flexible",
+      "emoji": "🎒",
+      "activities_add": [
+        "hostel socializing",
+        "solo treks",
+        "local meetups",
+        "flexible day plans"
+      ],
+      "tips": [
+        "Stay in hostels to meet other travelers",
+        "Join group tours to save money",
+        "Keep family updated on location"
+      ]
+    }
+  }
+}

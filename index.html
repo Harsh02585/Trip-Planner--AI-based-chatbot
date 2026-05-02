@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Trip Planner 🌍</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- ══════════════════════════════════════════
+       HEADER
+  ══════════════════════════════════════════ -->
+  <header class="header">
+    <div class="header-left">
+      <div class="bot-avatar">
+        <i class="fas fa-plane-departure"></i>
+      </div>
+      <div class="header-info">
+        <h1>AI Trip Planner</h1>
+        <span class="status-dot"></span>
+        <span class="status-text">Online — Ready to plan!</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <button id="resetBtn" title="Start New Trip">
+        <i class="fas fa-rotate-right"></i> New Trip
+      </button>
+    </div>
+  </header>
+
+  <!-- ══════════════════════════════════════════
+       CHAT WINDOW
+  ══════════════════════════════════════════ -->
+  <main class="chat-container" id="chatContainer">
+
+    <!-- Welcome message injected via JS on load -->
+    <div id="messageArea"></div>
+
+  </main>
+
+  <!-- ══════════════════════════════════════════
+       QUICK REPLY CHIPS
+  ══════════════════════════════════════════ -->
+  <div class="quick-reply-bar" id="quickReplyBar"></div>
+
+  <!-- ══════════════════════════════════════════
+       INPUT BAR
+  ══════════════════════════════════════════ -->
+  <footer class="input-bar">
+    <button class="mic-btn" id="micBtn" title="Voice Input">
+      <i class="fas fa-microphone"></i>
+    </button>
+    <input
+      type="text"
+      id="userInput"
+      placeholder='Try: "Plan a 3-day Goa trip under ₹10,000 for friends"'
+      autocomplete="off"
+    />
+    <button class="send-btn" id="sendBtn">
+      <i class="fas fa-paper-plane"></i>
+    </button>
+  </footer>
+
+  <!-- ══════════════════════════════════════════
+       PLAN MODAL (full screen result)
+  ══════════════════════════════════════════ -->
+  <div class="modal-overlay" id="planModal">
+    <div class="modal-box" id="planBox">
+      <!-- Plan HTML injected here by JS -->
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
