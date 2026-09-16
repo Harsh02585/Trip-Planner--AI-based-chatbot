@@ -1,6 +1,6 @@
 # ✈️ TripMind AI — AI-Based Trip Planner Chatbot
 
-A professional, fully offline AI trip planner chatbot built with Flask + vanilla JS. No external APIs required.
+A professional AI-based trip planner chatbot built using *Flask + Vanilla JavaScript* that helps users plan personalized trips through an interactive web interface.
 
 ---
 
